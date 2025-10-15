@@ -15,14 +15,14 @@ Well-versed in frameworks like OWASP, PTES, MITRE ATT&CK, Cyber Kill Chain and N
 
 ## Credentials:
 
-OffSec Certified Professional+ (OSCP+)
-OffSec Certified Professional (OSCP)
-BSc (Hons) in Cyber Security
-OffSec Wireless Professional (OSWP)
-Kali Linux Certified Professional (KLCP)
-CompTIA Security+
-ISC2 Certified in Cybersecurity (CC)
-Higher National Diploma (HND) in Computing 
+* OffSec Certified Professional+ (OSCP+)
+* OffSec Certified Professional (OSCP)
+* BSc (Hons) in Cyber Security
+* OffSec Wireless Professional (OSWP)
+* Kali Linux Certified Professional (KLCP)
+* CompTIA Security+
+* ISC2 Certified in Cybersecurity (CC)
+* Higher National Diploma (HND) in Computing 
 
 
 Owned 14 HTB machines and mastered 100+ THM rooms, securing top leaderboard rankings on both platforms.
